@@ -1,0 +1,3 @@
+#!d:\so-vits-svc\workenv\python.exe
+from numba.pycc import main
+main()

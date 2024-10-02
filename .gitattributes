@@ -1,0 +1,14 @@
+E:/实习个人文档/chatboot/model/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/NPU-ASLP/speech_mfcca_asr-zh-cn-16k-alimeeting-vocab4950/lm/lm.pb filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/NPU-ASLP/speech_mfcca_asr-zh-cn-16k-alimeeting-vocab4950/model.pb filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/speech_paraformer/damo/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-online/model.pb filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/ffmpeg/bin/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/ffmpeg/bin/ffplay.exe filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/ffmpeg/bin/ffprobe.exe filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/logs/44k/hutao_G_40000.pth filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/logs/44k/klee_G_40000.pth filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/logs/44k/nahida_G_40000.pth filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/pre_trained_model/D_0.pth filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/pre_trained_model/G_0.pth filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/pre_trained_model/* filter=lfs diff=lfs merge=lfs -text
+E:/实习个人文档/chatboot/SVC/pretrain/* filter=lfs diff=lfs merge=lfs -text
